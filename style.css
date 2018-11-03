@@ -1,0 +1,42 @@
+.tic-tacbox {
+  position: relative;
+  left: 300px;
+}
+
+.tic-tacbox .row {
+  width: 500px;
+  height: 110px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.border-row {
+  border-bottom: 3px solid black;
+}
+
+.column {
+  border-right: 3px solid black;
+}
+
+a:link,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: rgb(245, 153, 119);
+}
+
+a:visited {
+  color: rgb(247, 221, 225);
+}
+
+.hey {
+  color: red;
+}
+
+.O {
+  color: red !important;
+}
+
+.X {
+  color: green !important;
+}
