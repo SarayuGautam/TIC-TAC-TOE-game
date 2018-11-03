@@ -1,3 +1,3 @@
 #Javascript Game
 
-Hope you'll enjoy playing the game.
+Hope you'll enjoy playing it.
